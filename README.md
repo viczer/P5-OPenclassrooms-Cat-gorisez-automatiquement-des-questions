@@ -1,8 +1,7 @@
-# P5-Openclassrooms-Categorisez-automatiquement-des-questions
 # Projet-Openclassrooms
 # Parcours Ingénieur Machine Learning
 
-## Projet n°4 : "Catégorisez automatiquement des questions"
+## Projet n°5 : "Catégorisez automatiquement des questions"
 
 ## Description du projet
 Stack Overflow est un site célèbre de questions-réponses liées au développement informatique.
